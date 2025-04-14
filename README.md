@@ -4,6 +4,7 @@
 ```
 aws-security-automation/
 ├── security_check.py
+├── README.md 
 ```
 
 ### 📄 `security_check.py`
