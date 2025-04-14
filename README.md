@@ -1,4 +1,4 @@
-## ✅ PROJECT 6: AWS Security Automation
+## PROJECT 6: AWS Security Automation
 
 ### 📁 GitHub Structure
 ```
